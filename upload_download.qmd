@@ -1,0 +1,37 @@
+---
+title: "Uploading and Downloading Files"
+date: "2025-07-31"
+format: 
+  html:
+    toc: true
+    code-fold: false
+    theme: cosmo
+  pdf:
+    toc: true
+execute:
+  warning: false
+  message: false
+  eval: false
+---
+
+## Uploading files to SAGE
+
+Please note that 'ppt' extension files are not compatible with SAGE. It should be in pdf format. To upload a pdf, one can simply drag the pdf to the SAGE board. One can also follow the steps below to upload files.
+
+- Right click on a blank space on the SAGE screen and select "Assets"
+![](images/assets.png){fig-align="center" width="800px"}
+- Click "Upload"
+![](images/uploadassets.png){fig-align="center" width="800px"}
+- Next, choose the file you want to upload and click "Upload".
+![](images/choosefiles.png){fig-align="center" width="800px"}
+- After a few seconds, you will see the file in the "Assets" folder. Simply double click the file to display it on the screen.
+![](images/upload3.png){fig-align="center" width="800px"}
+- You will now see the pdf on the screen.
+![](images/uploadedfile.png){fig-align="center" width="800px"}
+
+
+## Downloading files from SAGE
+
+To download any uploaded file, as before navigate to the "Assets" folder. Select the file you want to download and click download.
+![](images/downloadfile.png){fig-align="center" width="800px"}
+

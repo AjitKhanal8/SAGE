@@ -1,0 +1,56 @@
+---
+title: "Getting Started with SAGE"
+date: "2025-07-31"
+format: 
+  html:
+    toc: true
+    code-fold: false
+    theme: cosmo
+  pdf:
+    toc: true
+execute:
+  warning: false
+  message: false
+  eval: false
+---
+
+## 🎯 WHAT IS SAGE?
+
+SAGE is a collaborative digital environment where students and instructors can interact with the screen simultaneously.
+
+
+
+
+## HOW TO LOGIN TO SAGE?
+
+To get started with SAGE follow these simple steps:
+
+- Go to the following website: https://sage3.sagecommons.org/
+
+![](images/sagewebsite.png){fig-align="center" width="800px"}
+
+- Download the app! (Note: App might not work with IPads)
+![](images/sagedownload.png){fig-align="center" width="800px"}
+- Select Virginia Tech as Hub
+![](images/sagehub.jpg){fig-align="center" width="800px"}
+
+- Select log in with Google and login with your VT email address:
+![](images/sagelogin.jpg){fig-align="center" width="800px"}
+
+## JOINING A ROOM
+
+There are multiple rooms in SAGE created by users. Follow the steps below to select get into the room of your choice. 
+
+- Search your room in "Search available rooms" and join
+![](images/joinroom.jpg){fig-align="center" width="800px"}
+
+- Here, I have joined the room PDN. Once you join the room. You select a specific board. Instructors can create multiple boards within their room. This might be relevant for different sections of their course.
+![](images/sageboards.png){fig-align="center" width="800px"}
+- One you select a board, you will be able to see the main screen of SAGE!
+
+![](images/boardscreen.jpg){fig-align="center" width="800px"}
+
+
+- To get back to the home screen, please select the home button at the bottom of the screen.
+![](images/sagehome.png){fig-align="center" width="800px"}
+

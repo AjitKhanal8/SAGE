@@ -1,0 +1,50 @@
+---
+title: "Multiparticipant Screen Sharing and Following a User"
+date: "2025-07-31"
+format: 
+  html:
+    toc: true
+    code-fold: false
+    theme: cosmo
+  pdf:
+    toc: true
+execute:
+  warning: false
+  message: false
+  eval: false
+---
+
+## Mulitparticipant Screen Sharing
+In SAGE multiple people can share screen at the same time. To share the screen, navigate to any blank space, right click, select "Screenshares", and click "Start Sharing"
+
+![](images/screensharing.png){fig-align="center" width="800px"}
+
+Next, select the screen you want to share and click share.
+![](images/screensharing2.png){fig-align="center" width="800px"}
+
+## Following a User
+
+In SAGE, you can follow pointer of a specific user. To do this:
+
+- Right click on the screen, and select "Users"
+![](images/users.png){fig-align="center" width="800px"}
+- Click the name of the user you want to follow, and select, "Follow Them". Similarly to unfollow, click "Unfollow them".
+
+![](images/following.png){fig-align="center" width="800px"}
+
+## Using pens and erasers
+
+To use a pen, right click on any blank space, and select "Annotations". You can write both on the screen and on the pdf.
+![](images/write.png){fig-align="center" width="800px"}
+To erase, right click on any blank space, and select "Eraser". To erase click on the writings.
+![](images/erase.png){fig-align="center" width="800px"}
+
+## Python 3 Kernels
+
+Python 3 kernels are directly incorporated into SAGE (however, other applications like R, and Stata are not available). To create a kernel:
+
+- Right click on a blank space on the screen, select kernels and click "Create Kernel".
+![](images/kernel1.png){fig-align="center" width="800px"}
+- Type the name of the kernel (spaces are not allowed). Then, click "Create".
+![](images/kernel2.png){fig-align="center" width="800px"}
+

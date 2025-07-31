@@ -1,0 +1,65 @@
+---
+title: "Interacting with Apps and PDFs"
+date: "2025-07-31"
+format: 
+  html:
+    toc: true
+    code-fold: false
+    theme: cosmo
+  pdf:
+    toc: true
+execute:
+  warning: false
+  message: false
+  eval: false
+---
+
+## Interacting with APPs
+
+### Selecting an application
+- Each "windows" in SAGE is called an application or "app". You can click on the app and it will get bordered by a 'tel' color. This means you are interacting with it. 
+
+![](images/interacting.png){fig-align="center" width="800px"}
+
+### Changing position of an application
+- To move an app from its original position, unselect the app by clicking on a blank space, and drag the mouse to the app (Notice the pointer changes). Then, simply click, hold and drag.
+![](images/dragging.png){fig-align="center" width="800px"}
+## Enter and exit focus mode
+- One can fit an application to the entire screen. To do this, select the application. Next, select "Focus Mode"
+![](images/focusmode.png){fig-align="center" width="800px"}
+- Simply click on "Exit" to exit focus mode.
+![](images/exitfocusmode.png){fig-align="center" width="800px"}
+
+## Interacting with PDFs
+
+With a PDF, you can do several things. Some of them are listed below.
+
+### Display multiple pages
+
+- Click on the PDF, and you will see the pdf viewer as shown above. 
+- Use the "+" sign to add pages to be displayed.
+![](images/addpages.png){fig-align="center" width="800px"}
+
+### Reduce number of pages displayed
+
+- Click on the PDF, and you will see the pdf viewer
+- Use the "-" sign to reduce the number of pages to be displayed.
+![](images/removepage.png){fig-align="center" width="800px"}
+### Go to the next page
+![](images/next page.png){fig-align="center" width="800px"}
+
+### Go to the previous page
+
+![](images/Previous page.png){fig-align="center" width="800px"}
+
+### Back ten pages
+![](images/backtenpages.png){fig-align="center" width="800px"}
+
+### Forward ten pages
+![](images/forwardtenpages.png){fig-align="center" width="800px"}
+
+### Go to the first page
+![](images/firstpage.png){fig-align="center" width="800px"}
+
+### Go to the final page
+![](images/lastpage.png){fig-align="center" width="800px"}
