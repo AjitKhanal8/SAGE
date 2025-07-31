@@ -1,0 +1,44 @@
+
+project:
+  type: website
+
+website:
+  title: "SAGE Tutorial Guide"
+  description: "A comprehensive guide for using SAGE"
+  
+  navbar:
+    background: primary
+    search: true
+    
+sidebar:
+    style: "docked"
+    background: light
+    collapse-level: 1
+    contents:
+      - section: "Getting Started With SAGE"
+        href: g_started.qmd
+      - section: "Create Your Room"
+        href: c_room.qmd
+      - section: "Uploading and Downloading Files"
+        href: upload_download.qmd
+      - section: "Interacting with SAGE"
+        contents:
+          - text: "Interacting with Applications and PDFs"
+            href: int_app.qmd
+          - text: "Following a Specific User"
+            href: f_user.qmd
+	
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: true
+    number-sections: true
+
+execute:
+  freeze: auto
