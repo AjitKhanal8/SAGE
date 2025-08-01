@@ -1,5 +1,5 @@
 ---
-title: "Multiparticipant Screen Sharing and Following a User"
+title: "Screen Sharing, Annotations, and Tools"
 date: "2025-07-31"
 format: html
 execute:
