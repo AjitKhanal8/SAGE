@@ -17,7 +17,9 @@ execute:
 
 ### Changing position of an application
 - To move an app from its original position, unselect the app by clicking on a blank space, and drag the mouse to the app (Notice the pointer changes). Then, simply click, hold and drag.
+
 ![](images/dragging.png){fig-align="center" width="800px"}
+
 ## Enter and exit focus mode
 - One can fit an application to the entire screen. To do this, select the application. Next, select "Focus Mode"
 ![](images/focusmode.png){fig-align="center" width="800px"}
@@ -37,9 +39,12 @@ With a PDF, you can do several things. Some of them are listed below.
 ### Reduce number of pages displayed
 
 - Click on the PDF, and you will see the pdf viewer
+
 - Use the "-" sign to reduce the number of pages to be displayed.
 ![](images/removepage.png){fig-align="center" width="800px"}
+
 ### Go to the next page
+
 ![](images/next page.png){fig-align="center" width="800px"}
 
 ### Go to the previous page
