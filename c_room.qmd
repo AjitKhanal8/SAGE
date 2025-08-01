@@ -25,8 +25,11 @@ To create your room, please follow the following steps:
 ### Create boards within a room
 
 - To create boards simply select the room of your interest, and click the "+" icon under Boards.
+
 ![](images/create_board1.png){fig-align="center" width="800px"}
+
 - Fill in the board name, and description. As before, you have the option to protect the board you create with a password. Click "Create".
+
 ![](images/create_board2.png){fig-align="center" width="800px"}
 
 - The board you created will appear under Boards in your room. You can simply click on it to get in.
