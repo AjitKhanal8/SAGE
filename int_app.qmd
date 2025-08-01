@@ -14,23 +14,23 @@ execute:
 
 - Each "window" in SAGE is called an application or "app". You can click on the app and it will get bordered by a teal color. This means you are interacting with it.
 
-![](images/interacting.png){fig-align="center" width="800px"}
+![](images/interacting.png){fig-align="center" width="800px" height="500px"}
 
 ### Changing Position of an Application
 
 - To move an app from its original position, unselect the app by clicking on a blank space, and drag the mouse to the app (Notice the pointer changes). Then, simply click, hold and drag.
 
-![](images/dragging.png){fig-align="center" width="800px"}
+![](images/dragging.png){fig-align="center" width="800px" height="500px"}
 
 ## Enter and Exit Focus Mode
 
 - One can fit an application to the entire screen. To do this, select the application. Next, select "Focus Mode"
 
-![](images/focusmode.png){fig-align="center" width="800px"}
+![](images/focusmode.png){fig-align="center" width="800px" height="500px"}
 
 - Simply click on "Exit" to exit focus mode.
 
-![](images/exitfocusmode.png){fig-align="center" width="800px"}
+![](images/exitfocusmode.png){fig-align="center" width="800px" height="500px"}
 
 ## Interacting with PDFs
 
@@ -41,35 +41,35 @@ With a PDF, you can do several things. Some of them are listed below.
 - Click on the PDF, and you will see the PDF viewer as shown above.
 - Use the "+" sign to add pages to be displayed.
 
-![](images/addpages.png){fig-align="center" width="800px"}
+![](images/addpages.png){fig-align="center" width="800px" height="500px"}
 
 ### Reduce Number of Pages Displayed
 
 - Click on the PDF, and you will see the PDF viewer
 - Use the "-" sign to reduce the number of pages to be displayed.
 
-![](images/removepage.png){fig-align="center" width="800px"}
+![](images/removepage.png){fig-align="center" width="800px" height="500px"}
 
 ### Go to the Next Page
 
-![](images/next page.png){fig-align="center" width="800px"}
+![](images/next page.png){fig-align="center" width="800px" height="500px"}
 
 ### Go to the Previous Page
 
-![](images/Previous page.png){fig-align="center" width="800px"}
+![](images/Previous page.png){fig-align="center" width="800px" height="500px"}
 
 ### Back Ten Pages
 
-![](images/backtenpages.png){fig-align="center" width="800px"}
+![](images/backtenpages.png){fig-align="center" width="800px" height="500px"}
 
 ### Forward Ten Pages
 
-![](images/forwardtenpages.png){fig-align="center" width="800px"}
+![](images/forwardtenpages.png){fig-align="center" width="800px" height="500px"}
 
 ### Go to the First Page
 
-![](images/firstpage.png){fig-align="center" width="800px"}
+![](images/firstpage.png){fig-align="center" width="800px" height="500px"}
 
 ### Go to the Final Page
 
-![](images/lastpage.png){fig-align="center" width="800px"}
+![](images/lastpage.png){fig-align="center" width="800px" height="500px"}
