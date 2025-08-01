@@ -2,97 +2,84 @@
 
 // Define your maroon color palette
 $maroon-primary: #861F41;
-$maroon-light: #A63A5A;
-$maroon-dark: #6B1833;
-
-// Override Bootstrap theme colors
 $primary: $maroon-primary;
 $headings-color: $maroon-primary;
-$body-color: #333333;
 $link-color: $maroon-primary;
-$link-hover-color: $maroon-dark;
 
 /*-- scss:rules --*/
 
-// Improved sidebar styling
-.sidebar {
-  border-right: 3px solid $maroon-primary;
+// Consistent image styling
+.quarto-figure {
+  text-align: center;
+  margin: 1.5rem 0;
 }
 
-.sidebar .sidebar-title {
-  color: $maroon-primary;
-  font-weight: bold;
-  font-size: 1.2rem;
-  border-bottom: 2px solid $maroon-primary;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-}
-
-// Better sidebar navigation
-.sidebar-item {
-  margin-bottom: 0.25rem;
-}
-
-.sidebar-item a {
-  color: $body-color;
-  text-decoration: none;
-  padding: 0.75rem 1rem;
+.quarto-figure img {
+  max-width: 100%;
+  height: auto;
   display: block;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+// Force all images to be centered and consistent
+img {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
   border-radius: 6px;
-  transition: all 0.2s ease;
-  font-size: 0.95rem;
-  line-height: 1.4;
-  cursor: pointer;
-  border: 1px solid transparent;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-.sidebar-item a:hover {
-  background-color: rgba(134, 31, 65, 0.1);
-  color: $maroon-primary;
-  border-color: rgba(134, 31, 65, 0.2);
-  text-decoration: none;
-}
-
-.sidebar-item.active a,
-.sidebar-item a.active {
-  background-color: $maroon-primary;
-  color: white;
-  font-weight: 500;
-}
-
-// Section headers in sidebar
-.sidebar-section > .sidebar-section-header {
-  color: $maroon-primary;
-  font-weight: 600;
-  font-size: 1rem;
-  padding: 0.5rem 1rem;
-  margin-top: 1rem;
-  margin-bottom: 0.5rem;
-  border-bottom: 1px solid rgba(134, 31, 65, 0.3);
-}
-
-// Step numbers styling
-.step-number {
-  background-color: $maroon-primary;
-  color: white;
-  border-radius: 50%;
-  width: 30px;
-  height: 30px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: bold;
-  margin-right: 10px;
-}
-
-// Better spacing for content
-.sidebar-item + .sidebar-item {
-  margin-top: 0.25rem;
-}
-
-// Ensure links are clickable
-.sidebar a {
-  display: block;
+// Specific classes for different image sizes
+.img-large {
+  max-width: 800px;
   width: 100%;
-  box-sizing: border-box;
+}
+
+.img-medium {
+  max-width: 600px;
+  width: 100%;
+}
+
+.img-small {
+  max-width: 400px;
+  width: 100%;
+}
+
+// Figure captions
+.figure-caption {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+// Simple sidebar styling
+.sidebar-navigation .sidebar-item a {
+  padding: 12px 16px;
+  display: block;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 2px 0;
+  transition: all 0.2s ease;
+}
+
+.sidebar-navigation .sidebar-item a:hover {
+  background-color: rgba(134, 31, 65, 0.1);
+  color: #861F41;
+}
+
+.sidebar-navigation .sidebar-item.active a {
+  background-color: #861F41;
+  color: white;
+}
+
+.sidebar .sidebar-item {
+  margin-bottom: 4px;
 }
