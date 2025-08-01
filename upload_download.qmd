@@ -17,26 +17,26 @@ Please note that 'ppt' extension files are not compatible with SAGE. It should b
 
 - Right click on a blank space on the SAGE screen and select "Assets"
 
-![](images/assets.png){fig-align="center" width="800px"}
+![](images/assets.png){fig-align="center" width="800px" height="500px"}
 
 - Click "Upload"
 
-![](images/uploadassets.png){fig-align="center" width="800px"}
+![](images/uploadassets.png){fig-align="center" width="800px" height="500px"}
 
 - Next, choose the file you want to upload and click "Upload".
 
-![](images/choosefiles.png){fig-align="center" width="800px"}
+![](images/choosefiles.png){fig-align="center" width="800px" height="500px"}
 
 - After a few seconds, you will see the file in the "Assets" folder. Simply double click the file to display it on the screen.
 
-![](images/upload3.png){fig-align="center" width="800px"}
+![](images/upload3.png){fig-align="center" width="800px" height="500px"}
 
 - You will now see the PDF on the screen.
 
-![](images/uploadedfile.png){fig-align="center" width="800px"}
+![](images/uploadedfile.png){fig-align="center" width="800px" height="500px"}
 
 ## Downloading Files from SAGE
 
 To download any uploaded file, as before navigate to the "Assets" folder. Select the file you want to download and click download.
 
-![](images/downloadfile.png){fig-align="center" width="800px"}
+![](images/downloadfile.png){fig-align="center" width="800px" height="500px"}
