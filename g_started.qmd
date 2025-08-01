@@ -5,9 +5,6 @@ format:
   html:
     toc: true
     code-fold: false
-    theme: cosmo
-  pdf:
-    toc: true
 execute:
   warning: false
   message: false
