@@ -16,7 +16,7 @@ SAGE is a collaborative digital environment where students and instructors can i
 
 To get started with SAGE follow these simple steps:
 
-- Go to the following website: https://sage3.sagecommons.org/
+- Go to the following website: [https://sage3.sagecommons.org/](https://sage3.sagecommons.org/)
 
 ![](images/sagewebsite.png){fig-align="center" width="800px" height="500px"}
 
