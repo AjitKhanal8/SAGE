@@ -1,5 +1,5 @@
 ---
-title: "Create your room"
+title: "Create Your Room"
 date: "2025-07-31"
 format: html
 execute:
@@ -8,7 +8,7 @@ execute:
   eval: false
 ---
 
-## Create your Room
+## Create Your Room
 
 To create your room, please follow the following steps:
 
@@ -16,13 +16,13 @@ To create your room, please follow the following steps:
 
 ![](images/create_room1.png){fig-align="center" width="800px"}
 
-- Write your room name and description. You can either make the room public or protect it with password. Once you fill in the details, click "Create".
+- Write your room name and description. You can either make the room public or protect it with a password. Once you fill in the details, click "Create".
 
 ![](images/create_room2.png){fig-align="center" width="800px"}
 
 - All the rooms that you have created or joined will be displayed under "Your Rooms" on the left panel of the home screen.
 
-### Create boards within a room
+### Create Boards Within a Room
 
 - To create boards simply select the room of your interest, and click the "+" icon under Boards.
 
@@ -33,7 +33,3 @@ To create your room, please follow the following steps:
 ![](images/create_board2.png){fig-align="center" width="800px"}
 
 - The board you created will appear under Boards in your room. You can simply click on it to get in.
-
-
-
-
