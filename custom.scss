@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+// Define your maroon color palette
+$maroon-primary: #861F41;
+$maroon-light: #A63A5A;
+$maroon-dark: #6B1833;
+
+// Override Bootstrap theme colors
+$primary: $maroon-primary;
+$headings-color: $maroon-primary;
+$body-color: #333333;
+$link-color: $maroon-primary;
+$link-hover-color: $maroon-dark;
+
+/*-- scss:rules --*/
+
+.step-number {
+  background-color: $maroon-primary;
+  color: white;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin-right: 10px;
+}
