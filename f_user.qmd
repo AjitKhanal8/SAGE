@@ -14,11 +14,11 @@ In SAGE multiple people can share screen at the same time. To share the screen:
 
 - Navigate to any blank space, right click, select "Screenshares", and click "Start Sharing"
 
-![](images/screensharing.png){fig-align="center" width="800px"}
+![](images/screensharing.png){fig-align="center" width="800px" height="500px"}
 
 - Next, select the screen you want to share and click share.
 
-![](images/screensharing2.png){fig-align="center" width="800px"}
+![](images/screensharing2.png){fig-align="center" width="800px" height="500px"}
 
 ## Following a User
 
@@ -26,11 +26,11 @@ In SAGE, you can follow pointer of a specific user. To do this:
 
 - Right click on the screen, and select "Users"
 
-![](images/users.png){fig-align="center" width="800px"}
+![](images/users.png){fig-align="center" width="800px" height="500px"}
 
 - Click the name of the user you want to follow, and select "Follow Them". Similarly to unfollow, click "Unfollow them".
 
-![](images/following.png){fig-align="center" width="800px"}
+![](images/following.png){fig-align="center" width="800px" height="500px"}
 
 ## Using Pens and Erasers
 
@@ -38,13 +38,13 @@ To use a pen:
 
 - Right click on any blank space, and select "Annotations". You can write both on the screen and on the PDF.
 
-![](images/write.png){fig-align="center" width="800px"}
+![](images/write.png){fig-align="center" width="800px" height="500px"}
 
 To erase:
 
 - Right click on any blank space, and select "Eraser". To erase click on the writings.
 
-![](images/erase.png){fig-align="center" width="800px"}
+![](images/erase.png){fig-align="center" width="800px" height="500px"}
 
 ## Python 3 Kernels
 
@@ -52,8 +52,8 @@ Python 3 kernels are directly incorporated into SAGE (however, other application
 
 - Right click on a blank space on the screen, select kernels and click "Create Kernel".
 
-![](images/kernel1.png){fig-align="center" width="800px"}
+![](images/kernel1.png){fig-align="center" width="800px" height="500px"}
 
 - Type the name of the kernel (spaces are not allowed). Then, click "Create".
 
-![](images/kernel2.png){fig-align="center" width="800px"}
+![](images/kernel2.png){fig-align="center" width="800px" height="500px"}
