@@ -14,6 +14,64 @@ $link-hover-color: $maroon-dark;
 
 /*-- scss:rules --*/
 
+// Improved sidebar styling
+.sidebar {
+  border-right: 3px solid $maroon-primary;
+}
+
+.sidebar .sidebar-title {
+  color: $maroon-primary;
+  font-weight: bold;
+  font-size: 1.2rem;
+  border-bottom: 2px solid $maroon-primary;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+// Better sidebar navigation
+.sidebar-item {
+  margin-bottom: 0.25rem;
+}
+
+.sidebar-item a {
+  color: $body-color;
+  text-decoration: none;
+  padding: 0.75rem 1rem;
+  display: block;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.sidebar-item a:hover {
+  background-color: rgba(134, 31, 65, 0.1);
+  color: $maroon-primary;
+  border-color: rgba(134, 31, 65, 0.2);
+  text-decoration: none;
+}
+
+.sidebar-item.active a,
+.sidebar-item a.active {
+  background-color: $maroon-primary;
+  color: white;
+  font-weight: 500;
+}
+
+// Section headers in sidebar
+.sidebar-section > .sidebar-section-header {
+  color: $maroon-primary;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(134, 31, 65, 0.3);
+}
+
+// Step numbers styling
 .step-number {
   background-color: $maroon-primary;
   color: white;
@@ -25,4 +83,16 @@ $link-hover-color: $maroon-dark;
   justify-content: center;
   font-weight: bold;
   margin-right: 10px;
+}
+
+// Better spacing for content
+.sidebar-item + .sidebar-item {
+  margin-top: 0.25rem;
+}
+
+// Ensure links are clickable
+.sidebar a {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
 }
