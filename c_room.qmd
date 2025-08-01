@@ -33,3 +33,5 @@ To create your room, please follow the following steps:
 ![](images/create_board2.png){fig-align="center" width="800px" height="500px"}
 
 - The board you created will appear under Boards in your room. You can simply click on it to get in.
+
+![](images/create_board3.png){fig-align="center" width="800px" height="500px"}
