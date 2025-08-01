@@ -1,4 +1,3 @@
-
 project:
   type: website
 
@@ -10,7 +9,7 @@ website:
     background: primary
     search: true
     
-sidebar:
+  sidebar:
     style: "docked"
     background: light
     collapse-level: 1
@@ -27,7 +26,7 @@ sidebar:
             href: int_app.qmd
           - text: "Following a Specific User"
             href: f_user.qmd
-	
+
 format:
   html:
     theme: 
