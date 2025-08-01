@@ -12,13 +12,13 @@ website:
   sidebar:
     style: "docked"
     background: light
-    collapse-level: 1
+    collapse-level: 2
     contents:
-      - section: "Getting Started With SAGE"
+      - text: "Getting Started With SAGE"
         href: g_started.qmd
-      - section: "Create Your Room"
+      - text: "Create Your Room"
         href: c_room.qmd
-      - section: "Uploading and Downloading Files"
+      - text: "Uploading and Downloading Files"
         href: upload_download.qmd
       - section: "Interacting with SAGE"
         contents:
