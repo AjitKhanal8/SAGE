@@ -1,10 +1,7 @@
 ---
 title: "Interacting with Apps and PDFs"
 date: "2025-07-31"
-format: 
-  html:
-    toc: true
-    code-fold: false
+format: html
 execute:
   warning: false
   message: false
