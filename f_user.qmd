@@ -9,11 +9,13 @@ execute:
 ---
 
 ## Mulitparticipant Screen Sharing
-In SAGE multiple people can share screen at the same time. To share the screen, navigate to any blank space, right click, select "Screenshares", and click "Start Sharing"
+In SAGE multiple people can share screen at the same time. To share the screen:
+- Navigate to any blank space, right click, select "Screenshares", and click "Start Sharing"
 
 ![](images/screensharing.png){fig-align="center" width="800px"}
 
-Next, select the screen you want to share and click share.
+- Next, select the screen you want to share and click share.
+
 ![](images/screensharing2.png){fig-align="center" width="800px"}
 
 ## Following a User
@@ -28,9 +30,12 @@ In SAGE, you can follow pointer of a specific user. To do this:
 
 ## Using pens and erasers
 
-To use a pen, right click on any blank space, and select "Annotations". You can write both on the screen and on the pdf.
+To use a pen:
+- Right click on any blank space, and select "Annotations". You can write both on the screen and on the pdf.
 ![](images/write.png){fig-align="center" width="800px"}
-To erase, right click on any blank space, and select "Eraser". To erase click on the writings.
+
+To erase:
+- right click on any blank space, and select "Eraser". To erase click on the writings.
 ![](images/erase.png){fig-align="center" width="800px"}
 
 ## Python 3 Kernels
